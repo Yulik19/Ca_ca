@@ -58,7 +58,7 @@ const CurrencyConverter = () => {
     setAmount(event.target.value)
   }
 
-  // Обработчик нажатия на кнопку "Поменять местами"
+  // Обработчик нажатия на кнопку "Поменять местами валюты"
   const handleSwapCurrencies = () => {
     const temp = fromCurrency
     setFromCurrency(toCurrency)
