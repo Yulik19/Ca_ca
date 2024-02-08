@@ -5,11 +5,11 @@ body {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
-.h2 {
+/* .h2 {
 	margin: 0;
 	font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter,
 		monospace;
-}
+} */
 
 code {
 	font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
